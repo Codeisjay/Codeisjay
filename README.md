@@ -1,143 +1,139 @@
-# 👋 Hi, I'm Dhananjay Mishra
+<div align="center">
 
-### 💻 Software Developer | AI/ML Enthusiast | Competitive Programmer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:5BC0BE&height=240&section=header&text=Dhananjay%20Mishra&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST&descSize=16&descAlignY=58" width="100%" alt="Animated blue tech banner" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Developer;Full+Stack+Web+Development;Python+%7C+C%2B%2B+%7C+JavaScript;AI+%26+Machine+Learning;430%2B+LeetCode+Problems;Building+Real-World+Projects" alt="Animated introduction" />
-</p>
+<a href="https://github.com/Codeisjay">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=2800&pause=700&color=5BC0BE&center=true&vCenter=true&width=850&lines=Building+intelligent%2C+useful+software;Full-stack+web+development;Python+%7C+C%2B%2B+%7C+JavaScript;Computer+vision+%7C+NLP+%7C+machine+learning;430%2B+LeetCode+problems+solved" alt="Animated typing introduction" />
+</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Codeisjay&color=blue&style=for-the-badge" alt="Profile Views" />
-</p>
+<br />
+
+<a href="https://github.com/Codeisjay"><img src="https://komarev.com/ghpvc/?username=Codeisjay&style=for-the-badge&color=5BC0BE&label=PROFILE+VIEWS" alt="Profile views" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/dhananjay-mishra-72366035b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+&nbsp;
+<a href="https://github.com/Codeisjay"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
+
+</div>
 
 ---
 
-## 🧠 About Me
+<div align="center">
 
-- 🎓 B.Tech in Computer Science and Engineering at Pranveer Singh Institute of Technology (PSIT), Kanpur
-- 💻 Interested in Software Development, Backend Engineering, and Full-Stack Development
+### `> Turning ideas into practical software, one commit at a time.`
+
+</div>
+
+## 🧑‍💻 About Me
+
+- 🎓 Computer Science and Engineering student at Pranveer Singh Institute of Technology (PSIT), Kanpur
+- 💡 Interested in software development, backend engineering, and full-stack development
 - 🧩 Solved **430+ DSA problems on LeetCode**
-- ⚡ **4-Star Problem Solving** on HackerRank
-- 🤖 Building AI-powered applications using Python, Computer Vision, and NLP
-- 🌐 Hands-on experience with MERN stack development and REST APIs
-- 🚀 Focused on writing efficient, maintainable code and building practical software solutions
+- ⭐ **4-Star Problem Solving** on HackerRank
+- 🤖 Building AI-powered applications with Python, computer vision, and NLP
+- 🚀 Focused on clean, maintainable code and practical solutions to real-world problems
 
----
+## ⚡ Technologies & Tools
 
-## ⚡ Tech Stack
+<div align="center">
 
-### 💻 Programming Languages
+<h3>Languages</h3>
+<img src="https://skillicons.dev/icons?i=python,cpp,js&theme=dark" alt="Python, C++, and JavaScript" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<h3>Full Stack</h3>
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" alt="MongoDB, Express, React, and Node.js" />
 
-### 🌐 Full-Stack Development
+<h3>AI, Machine Learning & Developer Tools</h3>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,git,github,vscode&theme=dark" alt="PyTorch, OpenCV, Git, GitHub, and VS Code" />
+<br /><br />
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
+<img src="https://img.shields.io/badge/NLP-6A1B9A?style=for-the-badge" alt="Natural language processing" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" alt="REST APIs" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JSON Web Tokens" />
+<img src="https://img.shields.io/badge/Librosa-7B2CBF?style=for-the-badge" alt="Librosa" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-### 🤖 AI / Machine Learning
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-6A1B9A?style=for-the-badge)
-
-### 🛠️ Tools & Deployment
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
+</div>
 
 ## 🚀 Featured Projects
 
-### 🤖 Aarambh — AI Mock Interview Analyzer
+<details open>
+<summary><strong>🤖 Aarambh — AI Mock Interview Analyzer</strong></summary>
+<br />
 
-**Tech Stack:** Python, OpenCV, MediaPipe, Librosa, NLP, Streamlit
+**Python · OpenCV · MediaPipe · Librosa · NLP · Streamlit**
 
-- Developed a multimodal interview analysis system that processes video, audio, and text.
-- Applied facial tracking, speech analysis, and NLP techniques to evaluate interview performance.
-- Built a unified confidence-scoring approach using multiple interview signals.
-- Currently developing and improving the system.
+- Analyzes interview video, audio, and text using a multimodal pipeline.
+- Applies facial tracking, speech analysis, and NLP to evaluate interview performance.
+- Combines multiple interview signals into a unified confidence-scoring approach.
+- Currently under active development.
 
-### 🧠 VeriFace — Deepfake Detection System
+</details>
 
-**Tech Stack:** Python, PyTorch, CNN, Streamlit
+<details>
+<summary><strong>🧠 VeriFace — Deepfake Detection System</strong></summary>
+<br />
+
+**Python · PyTorch · CNN · Streamlit**
 
 - Built a deepfake detection system using convolutional neural networks.
-- Incorporated Error Level Analysis (ELA) and Fast Fourier Transform (FFT)-based feature extraction.
-- Developed a Streamlit interface for image verification and model inference.
+- Combines Error Level Analysis (ELA) and Fast Fourier Transform (FFT)-based feature extraction.
+- Provides image verification and model inference through a Streamlit interface.
 
-### 🌐 GlobalConnect — MERN Social Platform
+</details>
 
-**Tech Stack:** MongoDB, Express.js, React.js, Node.js, JWT
+<details>
+<summary><strong>🌐 GlobalConnect — MERN Social Platform</strong></summary>
+<br />
 
-- Developed a LinkedIn-inspired social platform with authentication, user profiles, and post creation.
-- Designed RESTful APIs using Node.js and Express.js.
-- Implemented JWT-based authentication and user session management.
-- Optimized MongoDB queries and data models for efficient data retrieval.
+**MongoDB · Express.js · React.js · Node.js · JWT**
+
+- Developed a LinkedIn-inspired social platform with authentication, profiles, and post creation.
+- Designed RESTful APIs and JWT-based authentication and session management.
+- Optimized MongoDB queries and data models for efficient retrieval.
 - Deployed the backend on Render and the frontend on Vercel.
 
----
+</details>
 
-## 🏆 Achievements
+## 📊 GitHub Analytics
 
-- 🧩 Solved **430+ problems on LeetCode**
-- ⭐ Earned **4-Star Problem Solving** on HackerRank
-- 💻 Practicing Data Structures and Algorithms using C++ and Python
+<div align="center">
 
----
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Codeisjay&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0B132B&title_color=5BC0BE&icon_color=5BC0BE" alt="GitHub profile statistics" />
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codeisjay&layout=compact&hide_border=true&theme=tokyonight&bg_color=0B132B&title_color=5BC0BE" alt="Most-used languages" />
 
-## 📜 Certifications
+<br />
 
-- ☁️ AWS — Generative AI Foundations
-- ☁️ AWS — Developing AI Solutions
-- 🧩 HackerRank — Problem Solving (Basic)
+<img src="https://streak-stats.demolab.com?user=Codeisjay&hide_border=true&theme=tokyonight&background=0B132B&ring=5BC0BE&fire=5BC0BE&currStreakLabel=5BC0BE" alt="GitHub contribution streak" />
 
----
+<br />
 
-## 📊 GitHub Statistics
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Codeisjay&bg_color=0B132B&color=FFFFFF&line=5BC0BE&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub contribution activity graph" />
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Codeisjay&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codeisjay&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+</div>
 
-## 🔥 Contribution Streak
+## 🏆 Achievements & Certifications
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Codeisjay&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Codeisjay&theme=tokyo-night" alt="GitHub Activity Graph" />
-</p>
+| 🏅 Achievement | 📜 Certification |
+|:--|:--|
+| 430+ LeetCode problems solved | AWS — Generative AI Foundations |
+| 4-Star Problem Solving on HackerRank | AWS — Developing AI Solutions |
+| Practicing DSA in C++ and Python | HackerRank — Problem Solving (Basic) |
 
 ---
 
-## 🌐 Connect With Me
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dhananjay-mishra-72366035b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Codeisjay">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+### 🤝 Let's Connect
 
----
+<a href="https://www.linkedin.com/in/dhananjay-mishra-72366035b/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="https://github.com/Codeisjay"><img src="https://img.shields.io/badge/GitHub-@Codeisjay-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub profile" /></a>
 
-<p align="center">
-  <i>"Building intelligent solutions, one line of code at a time."</i>
-</p>
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:5BC0BE&height=110&section=footer&animation=twinkling" width="100%" alt="Animated blue footer" />
+
+</div>
