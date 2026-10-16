@@ -57,7 +57,22 @@
 
 </div>
 
-## 🚀 Featured Projects
+## 📌 Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/Codeisjay/Aarambh"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Codeisjay&repo=Aarambh&theme=tokyonight&hide_border=true&bg_color=0B132B&title_color=5BC0BE&icon_color=5BC0BE" alt="Aarambh repository card" /></a>
+<a href="https://github.com/Codeisjay/AI-notes-specialist"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Codeisjay&repo=AI-notes-specialist&theme=tokyonight&hide_border=true&bg_color=0B132B&title_color=5BC0BE&icon_color=5BC0BE" alt="AI notes specialist repository card" /></a>
+
+<a href="https://github.com/Codeisjay/global_connect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Codeisjay&repo=global_connect&theme=tokyonight&hide_border=true&bg_color=0B132B&title_color=5BC0BE&icon_color=5BC0BE" alt="Global Connect repository card" /></a>
+<a href="https://github.com/Codeisjay/last-mile-delivery-tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Codeisjay&repo=last-mile-delivery-tracker&theme=tokyonight&hide_border=true&bg_color=0B132B&title_color=5BC0BE&icon_color=5BC0BE" alt="Last mile delivery tracker repository card" /></a>
+
+<a href="https://github.com/Codeisjay/OFLCHV1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Codeisjay&repo=OFLCHV1&theme=tokyonight&hide_border=true&bg_color=0B132B&title_color=5BC0BE&icon_color=5BC0BE" alt="OFLCHV1 repository card" /></a>
+<a href="https://github.com/Codeisjay/Veriface-deepfake-detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Codeisjay&repo=Veriface-deepfake-detection&theme=tokyonight&hide_border=true&bg_color=0B132B&title_color=5BC0BE&icon_color=5BC0BE" alt="Veriface deepfake detection repository card" /></a>
+
+</div>
+
+## 🚀 Project Spotlights
 
 <details open>
 <summary><strong>🤖 Aarambh — AI Mock Interview Analyzer</strong></summary>
