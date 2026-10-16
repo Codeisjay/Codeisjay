@@ -152,9 +152,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:5BC0BE&height=110&section=footer&animation=twinkling" width="100%" alt="Animated blue footer" />
 
 </div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=3500&pause=900&color=75F3FF&center=true&vCenter=true&width=800&lines=ONE+LINE+%2F+INFINITE+BEAUTY;Thanks+for+visiting+my+profile" alt="Animated profile sign-off" />
-
-</div>
