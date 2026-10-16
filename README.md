@@ -13,6 +13,8 @@
 <a href="https://www.linkedin.com/in/dhananjay-mishra-72366035b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 &nbsp;
 <a href="https://github.com/Codeisjay"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
+&nbsp;
+<a href="https://codeisjay.github.io/Codeisjay/"><img src="https://img.shields.io/badge/Interactive-Canvas%20Animation-5BC0BE?style=for-the-badge&logo=html5&logoColor=white" alt="Open the interactive canvas animation" /></a>
 
 </div>
 
